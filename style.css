@@ -1,0 +1,33 @@
+* {
+    background-color: #FDFFFC;
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+body {
+    border: solid #01200F;
+}
+
+h1, h2 {
+    color: #104F55;
+}
+
+p, ul, ol {
+    color: #01200F;
+    font-size: 16px;
+}
+
+ul, ol {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+a {
+    color: #011502;
+    font-size: 20px;
+}
+
+img {
+    border: thick double #01200F;
+}
+
